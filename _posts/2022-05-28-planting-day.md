@@ -3,11 +3,11 @@ layout: post
 title: Day 0 | Planting | 2022
 color: rgb(250, 50, 50)
 feature-img: "assets/img/feature-img/2022-05-28-day-0-planting.png"
-thumbnail: "assets/img/thumbnails/feature-img/2022-05-28-carrot-seeds.png"
+thumbnail: "assets/img/feature-img/2022-05-28-day-0-planting.png"
 tags: [seeds, windy, dirt, planters, basil, beets, carrots, garlic, green onion, lettuce, parsnips, peppers, onion, radish, tomatoes, edmonton]
 ---
 
-I am gardening on my own for the first time ever! I have never been succesful at keeping a plant alive for more than a month, so this time I'm trying a few different things:
+I am gardening on my own for the first time ever! I have never been succesful at keeping a plant alive for more than a month, so this time I'm trying a few different things.
 
 1. **I'm directly sowing seeds _outside_**. We have a west-facing balcony and it gets HOT during the day 🌞.
 1. **I'm using _proper planters_ and _potting soil_**. No more grocery store herbs in fragile plastic containers and sad soil.
