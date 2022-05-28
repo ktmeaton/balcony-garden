@@ -3,13 +3,14 @@ baseurl: "/balcony-garden"
 url: "https://ktmeaton.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Balcony Garden                                   # site's title
+title: Balcony Garden                           # site's title
 description: "Growing plants on a balcony"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+#avatar: assets/img/triangle.png                # Empty for no avatar in navbar
+avatar: https://s.gravatar.com/avatar/0b9dc28b3e64b59f5ce01e809d214a4e
+favicon: assets/favicon.ico                     # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
+header_text: Growing plants on a balcony  # Change Blog header text
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
