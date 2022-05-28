@@ -1,45 +1,43 @@
-# Type on Strap 🎨
+# Balcony Garden Blog  🌿
 
-[![Build](https://github.com/sylhare/Type-on-Strap/actions/workflows/jekyll-build.yml/badge.svg)](https://github.com/sylhare/Type-on-Strap/actions/workflows/jekyll-build.yml)
-[![Gem Version](https://badge.fury.io/rb/type-on-strap.svg)](https://badge.fury.io/rb/type-on-strap)
-[![Docker Pulls](https://img.shields.io/docker/pulls/sylhare/type-on-strap)](https://hub.docker.com/r/sylhare/type-on-strap)
+https://ktmeaton.github.io/balcony-garden
 
-[![Default Type on Strap blog](https://github.com/Sylhare/Type-on-Strap/blob/master/assets/img/screenshot.png?raw=true)](https://sylhare.github.io/Type-on-Strap/)
+## Credits
 
-A free and open-source [Jekyll](https://jekyllrb.com) theme. Based on Rohan Chandra [type-theme](https://github.com/rohanchandra/type-theme) packed with extra features and easily customizable:
+- This blog is built on the free and open-spource [Jekyll](https://jekyllrb.com) theme [Type-on-Strap](https://github.com/sylhare/Type-on-Strap) by [@sylhare](https://github.com/sylhare).
+- [Type-on-Strap](https://github.com/sylhare/Type-on-Strap) is also based on the [type-theme](https://github.com/rohanchandra/type-theme) by [@rohanchandra](https://github.com/rohanchandra).
 
-* Responsive design on all devices (🖥, 💻, 📱, ...)
-* Portfolio 🗂, Gallery 🖼 pages for your projects
-* Multi comments 💬 options  
-* Tags compatibility 🏷
-* Handle _Bootstrap_'ed pages: [Get Bootstrap](http://getbootstrap.com/)
-* 🔎 Search feature: [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Math Rendering : [KateX](https://github.com/Khan/KaTeX)
-* Diagram Rendering: [Mermaid-js](https://github.com/mermaid-js/mermaid)
-* 🖋 Nice fonts: [Font Awesome](https://fontawesome.com/), [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro), [Pacifico](https://fonts.google.com/specimen/Pacifico?selection.family=Pacifico) 
-* Seo Tags: [Jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
-* 🛠 Syntax Highlighting: Easily customisable [Base16](https://github.com/chriskempson/base16)
-* 💡 Light and dark theme supported
-* Find free of rights images on [pexels](https://www.pexels.com/)
+## Install
 
-> [Demo Site](https://sylhare.github.io/Type-on-Strap/) 
+### Locally as a GitHub Page
 
-## Usage
+1. Fork and clone the [Type on Strap repo](https://github.com/sylhare/Type-On-Strap): 
 
-### As a ruby gem 💎
+    ```bash
+    git clone https://github.com/Sylhare/Type-on-Strap.git
+    ```
 
-Check out this tutorial: [Use as Ruby Gem](#use-as-ruby-gem-)
+1. Install [Jekyll](https://jekyllrb.com/docs/installation/):
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#/https://github.com/sylhare/Type-On-Strap)
+    ```bash
+    gem install jekyll
+    ```
+  
+    Check [Issue #1](https://github.com/Sylhare/Type-on-Strap/issues/1) if you have a problem.
 
-### As a github page 📋
+3. Install the theme's dependencies: 
 
-1. Fork and clone the [Type on Strap repo](https://github.com/sylhare/Type-On-Strap): `git clone https://github.com/Sylhare/Type-on-Strap.git`
-2. Install [Jekyll](https://jekyllrb.com/docs/installation/): `gem install jekyll`, check [#1](https://github.com/Sylhare/Type-on-Strap/issues/1) if you have a problem.
-3. Install the theme's dependencies: `bundle install`
+    ```bash
+    bundle install
+    ```
 4. Customize the theme
-	- GitHub Page: [update `_config.yml`](#site-configuration)
-5. Run the Jekyll server: `bundle exec jekyll serve`
+    - GitHub Page: [update `_config.yml`](#site-configuration)
+
+5. Run the Jekyll server.
+
+    ```bash
+    bundle exec jekyll serve
+    ```
 
 ## Structure
 
