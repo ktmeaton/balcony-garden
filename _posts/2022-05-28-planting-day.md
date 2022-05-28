@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Day 0 | Planting
+title: Day 0 | Planting | 2022
 color: rgb(250, 50, 50)
-feature-img: "assets/img/feature-img/circuit.jpeg"
-thumbnail: "assets/img/thumbnails/feature-img/circuit.jpeg"
+feature-img: "assets/img/feature-img/2022-05-28-day-0-planting.png"
+thumbnail: "assets/img/thumbnails/feature-img/2022-05-28-carrot-seeds.png"
 tags: [seeds, windy, dirt, planters, basil, beets, carrots, garlic, green onion, lettuce, parsnips, peppers, onion, radish, tomatoes, edmonton]
-excerpt_separator: <!--more-->
 ---
 
 - For tomatoes, I am trying the [tomato slice method](https://www.gardeningknowhow.com/edible/vegetables/tomato/planting-tomato-slices.htm) for growing `tomatoes`.
@@ -14,6 +13,20 @@ excerpt_separator: <!--more-->
 - The `lettuce` and `pepper` are mystery seeds 😊 I have no idea what variety they will grow.
 
 ## Plants
+
+### Balcony
+
+{% include aligner.html images="portfolio/cabin.png,portfolio/cabin.png,portfolio/cabin.png,portfolio/cabin.png" column=4 %}
+
+### Troughs
+
+{% include aligner.html images="portfolio/cabin.png,portfolio/cabin.png" column=2 %}
+
+### Pots
+
+{% include aligner.html images="portfolio/cabin.png,portfolio/cabin.png" column=2 %}
+
+### Table
 
 - All plants are from seeds except for `garlic` and `green onions`. 
 
@@ -30,6 +43,7 @@ excerpt_separator: <!--more-->
 | Onion        | Trough #1      | Seed  | 10-15 days   | 115-125      |
 | Radish       | Small Pot      | Seed  | 5-7 days     | 22-70 days   |
 | Tomatoes     | Large Pot      | Slice | 5-10 days    | 60-100 days  |
+
 
 ## Companion Planting
 
@@ -65,14 +79,4 @@ The [growing season for Edmonton](https://www.almanac.com/gardening/frostdates/A
 ## Upcoming
 
 - The next activity point is the `garlic` and `green onion` sprouting in `2-3 days`.
-- Aftert that is the `basil`, `lettuce`, `radish`, and `tomatoes` sprouting in `5-14 days`.
-
-## Notes
-
-1. Picture of all planters, with labels.
-1. Picture of each planter as grid.
-
-{% include aligner.html images="pexels/book-glass.jpeg,triangle.png" %}
-{% include aligner.html images="portfolio/cabin.png,portfolio/cake.png,portfolio/circus.png" column=3 %}
-
-1. Picture of cat.
+- After that is the `basil`, `lettuce`, `radish`, and `tomatoes` sprouting in `5-14 days`.
