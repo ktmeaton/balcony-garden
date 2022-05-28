@@ -7,28 +7,24 @@ thumbnail: "assets/img/thumbnails/feature-img/2022-05-28-carrot-seeds.png"
 tags: [seeds, windy, dirt, planters, basil, beets, carrots, garlic, green onion, lettuce, parsnips, peppers, onion, radish, tomatoes, edmonton]
 ---
 
-- For tomatoes, I am trying the [tomato slice method](https://www.gardeningknowhow.com/edible/vegetables/tomato/planting-tomato-slices.htm) for growing `tomatoes`.
-- Sprout and maturation times come from the packets or West Coast Seeds' [How to Grow series](https://www.westcoastseeds.com/blogs/how-to-grow).
-- Next time, I will not sow seeds on an extremely windy day. 25% of my parsnip seeds were lost to the wind!
-- The `lettuce` and `pepper` are mystery seeds 😊 I have no idea what variety they will grow.
+I am gardening on my own for the first time ever! I have never been succesful at keeping a plant alive for more than a month, so this time I'm trying a few different things:
+
+1. **I'm directly sowing seeds _outside_**. We have a west-facing balcony and it gets HOT during the day 🌞.
+1. **I'm using _proper planters_ and _potting soil_**. No more grocery store herbs in fragile plastic containers and sad soil.
+1. **I've done my research**. I spent 4-6 hours reading about planting and proper care.
+
+In hindsight, the morning of May 28, 2022 was not an ideal day to plant seeds on a balcony garden. It was EXTREMELY windy, and I lost about 25% of my parsnip seeds 😢 to the wind. Hopefully that will make some hungry birds day though.
+
+On a whim, I decided to try and grow a few plants from kitchen scraps:
+
+- **6 `garlic` cloves**. Fingers-crossed I got the orientation correct 🙃.
+- **8 `green onion` bulbs**. These are easy to grow in a water glass.
+- **3 `tomato` slices** which is a funny technique [I read about the night before](https://www.gardeningknowhow.com/edible/vegetables/tomato/planting-tomato-slices.htm).
+
+My `lettuce` and `pepper` seeds are also "mystery" seeds which I don't the variety or viabilitiy. I'm suddenly reminded of convenience store [candy that came in a "mystery" flavor](https://zomgcandy.com/airheads-white-mystery/). The rest of the seeds are described below.
 
 ## Plants
 
-### Balcony
-
-{% include aligner.html images="portfolio/cabin.png,portfolio/cabin.png,portfolio/cabin.png,portfolio/cabin.png" column=4 %}
-
-### Troughs
-
-{% include aligner.html images="portfolio/cabin.png,portfolio/cabin.png" column=2 %}
-
-### Pots
-
-{% include aligner.html images="portfolio/cabin.png,portfolio/cabin.png" column=2 %}
-
-### Table
-
-- All plants are from seeds except for `garlic` and `green onions`. 
 
 | Plant        | Planter        | Type  | Sprout       | Mature       | 
 |:-------------|:---------------|:------| :------------|:-------------|
@@ -44,6 +40,20 @@ tags: [seeds, windy, dirt, planters, basil, beets, carrots, garlic, green onion,
 | Radish       | Small Pot      | Seed  | 5-7 days     | 22-70 days   |
 | Tomatoes     | Large Pot      | Slice | 5-10 days    | 60-100 days  |
 
+- All plants are from seeds except for `garlic` and `green onions`. 
+- Sprout and maturation times come from the packets or the [How to Grow series](https://www.westcoastseeds.com/blogs/how-to-grow).
+
+### Balcony
+
+{% include aligner.html images="portfolio/cabin.png,portfolio/cabin.png,portfolio/cabin.png,portfolio/cabin.png" column=4 %}
+
+### Troughs
+
+{% include aligner.html images="portfolio/cabin.png,portfolio/cabin.png" column=2 %}
+
+### Pots
+
+{% include aligner.html images="portfolio/cabin.png,portfolio/cabin.png" column=2 %}
 
 ## Companion Planting
 
@@ -75,6 +85,8 @@ The [growing season for Edmonton](https://www.almanac.com/gardening/frostdates/A
 | Nearest Climate Station    | Altitude | Last Spring Frost | First Fall Frost | Growing Season |
 |:---------------------------|:---------|:------------------|:-----------------|:---------------|
 | EDMONTON CITY CENTRE A, AB | 2198'    | May 15            | Sep 16           | 123 days       | 
+
+I am 13 days behind schedule, so we might be cutting it close for harvesting some of the root vegetables.
 
 ## Upcoming
 
