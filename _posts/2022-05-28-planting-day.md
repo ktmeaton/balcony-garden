@@ -4,13 +4,18 @@ title: Day 0 | Planting
 color: rgb(250, 50, 50)
 feature-img: "assets/img/feature-img/circuit.jpeg"
 thumbnail: "assets/img/thumbnails/feature-img/circuit.jpeg"
-tags: [seeds, windy, dirt, planters]
+tags: [seeds, windy, dirt, planters, basil, beets, carrots, garlic, green onion, lettuce, parsnips, peppers, onion, radish, tomatoes, edmonton]
 excerpt_separator: <!--more-->
 ---
 
-- For tomatoes, I am trying the [tomato slice method](https://www.gardeningknowhow.com/edible/vegetables/tomato/planting-tomato-slices.htm).
-- Sprout and maturation times come from the packets or West Coast Seeds [How to Grow series](https://www.westcoastseeds.com/blogs/how-to-grow).
-- Farmers almanac: May 28 to September 15 (first frost) (111 days). Going to be cutting it close for harvest of root vegetables.
+- For tomatoes, I am trying the [tomato slice method](https://www.gardeningknowhow.com/edible/vegetables/tomato/planting-tomato-slices.htm) for growing `tomatoes`.
+- Sprout and maturation times come from the packets or West Coast Seeds' [How to Grow series](https://www.westcoastseeds.com/blogs/how-to-grow).
+- Next time, I will not sow seeds on an extremely windy day. 25% of my parsnip seeds were lost to the wind!
+- The `lettuce` and `pepper` are mystery seeds 😊 I have no idea what variety they will grow.
+
+## Plants
+
+- All plants are from seeds except for `garlic` and `green onions`. 
 
 | Plant        | Planter        | Type  | Sprout       | Mature       | 
 |:-------------|:---------------|:------| :------------|:-------------|
@@ -26,6 +31,43 @@ excerpt_separator: <!--more-->
 | Radish       | Small Pot      | Seed  | 5-7 days     | 22-70 days   |
 | Tomatoes     | Large Pot      | Slice | 5-10 days    | 60-100 days  |
 
+## Companion Planting
+
+For almost all of the planters, I am using companion planting. From my research I found three major considerations:
+
+1. **Physical**
+
+    - Avoid putting large root vegetables together (ex. `carrots`, `parsnips`). 
+    - Instead, pair shallow roots (ex. `lettuce`) with deep roots (ex. `carrots`).
+    - Avoid putting "light-hungry" plants together (ex. `peppers`, `tomatoes`). 
+    - Instead, pair ["shade-loving" plants](https://www.ecohome.net/guides/2295/growing-vegetables-in-the-shade) (ex. `lettuce`) with a nice leafy canopy (ex. `peppers`, `tomatoes`).
+
+1. **Chemical**
+
+    - Beans don't like the chemical `allicin` produced by `Onions`, as it can [stunt their growth](https://www.tinygardenhabit.com/can-onions-and-beans-be-planted-together/). 
+    - Although some people [can make them work together](https://www.tinygardenhabit.com/can-onions-and-beans-be-planted-together/)!
+
+1. **Biological**
+
+    - Insect/parasite repellant qualities of one plant can benefit another! 
+    - `Basil` is [known to repel flies and hornworms](https://www.masterclass.com/articles/tomato-companion-planting-guide#companion-plants-to-grow-with-tomatoes), which makes it a great protector for `tomatoes`.
+    - On the other hand, parasites can spread between highly-similar plants. 
+    - Onion-like plants (ex. `onions`, `garlic`, `shallots`) are [suspectible to maggots](https://www.gardeningknowhow.com/edible/vegetables/onion/onion-plant-companions.htm), and are best kept apart to reduce infection.
+
+## Growing Season
+
+The [growing season for Edmonton](https://www.almanac.com/gardening/frostdates/AB/Edmonton) is:
+
+| Nearest Climate Station    | Altitude | Last Spring Frost | First Fall Frost | Growing Season |
+|:---------------------------|:---------|:------------------|:-----------------|:---------------|
+| EDMONTON CITY CENTRE A, AB | 2198'    | May 15            | Sep 16           | 123 days       | 
+
+## Upcoming
+
+- The next activity point is the `garlic` and `green onion` sprouting in `2-3 days`.
+- Aftert that is the `basil`, `lettuce`, `radish`, and `tomatoes` sprouting in `5-14 days`.
+
+## Notes
 
 1. Picture of all planters, with labels.
 1. Picture of each planter as grid.
@@ -34,30 +76,3 @@ excerpt_separator: <!--more-->
 {% include aligner.html images="portfolio/cabin.png,portfolio/cake.png,portfolio/circus.png" column=3 %}
 
 1. Picture of cat.
-
-1. Pictures of seed packets (grid).
-
-Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. 
-Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. 
-<!--more-->
-Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
-
-* Consectetur adipiscing elit
-* Donec a diam lectus
-* Sed sit amet ipsum mauris
-
-Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
-
-Nunc diam velit, adipiscing ut tristique vitae, sagittis vel odio. Maecenas convallis ullamcorper ultricies. Curabitur ornare, ligula *semper consectetur sagittis*, nisi diam iaculis velit, id fringilla sem nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum et, tincidunt et orci. Fusce eget orci a orci congue vestibulum.
-
-{% include aligner.html images="pexels/travel.jpeg" column=1 %}
-
-Ut dolor diam, elementum et vestibulum eu, porttitor vel elit. Curabitur venenatis pulvinar tellus gravida ornare. Sed et erat faucibus nunc euismod ultricies ut id justo. Nullam cursus suscipit nisi, et ultrices justo sodales nec. Fusce venenatis facilisis lectus ac semper. Aliquam at massa ipsum. Quisque bibendum purus convallis nulla ultrices ultricies. Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi. Fusce vel volutpat elit. Nam sagittis nisi dui.
-
-> Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque
-
-Etiam luctus porttitor lorem, sed suscipit est rutrum non. Curabitur lobortis nisl a enim congue semper. Aenean commodo ultrices imperdiet. Vestibulum ut justo vel sapien venenatis tincidunt.
-
-$$ \Theta \ne \Gamma $$
-
-Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus convallis. Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut augue nunc, sodales ut euismod non, adipiscing vitae orci. Mauris ut placerat justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas quis ut quam. Donec sollicitudin lectus a mauris pulvinar id aliquam urna cursus. Cras quis ligula sem, vel elementum mi. Phasellus non ullamcorper urna.
