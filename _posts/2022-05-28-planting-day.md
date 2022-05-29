@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Day 0 | Planting | 2022
+title: Garden | Day 0 | Planting
 feature-img: "assets/img/2022-05-28/2022-05-28_balcony.png"
 thumbnail: "assets/img/2022-05-28/2022-05-28_balcony.png"
-tags: [seed, wind, dirt, planter, basil, beet, carrot, garlic, green onion, lettuce, parsnip, pepper, onion, radish, tomato, edmonton]
+tags: [planting, seed, wind, dirt, planter, basil, beet, carrot, garlic, green onion, lettuce, parsnip, pepper, onion, radish, tomato, edmonton]
 ---
 
 I am gardening on my own for the first time ever! I have never been succesful at keeping a plant alive for more than a month, so this time I'm trying a few different things.
@@ -42,21 +42,21 @@ My `lettuce` and `pepper` seeds are also "mystery" seeds which I don't the varie
 - All plants are from seeds except for `garlic` and `green onions`. 
 - Sprout and maturation times come from the packets or the [How to Grow series](https://www.westcoastseeds.com/blogs/how-to-grow).
 
-{% include aligner.html images="2022-05-28/2022-05-28_balcony_labels.png" column=1 %}
+{% include aligner.html images="2022-05-28/2022-05-28_balcony_labels.png" alt="Balcony planters with labels" column=1 %}
 
-Now it's time for some high resolution photos of dirt! Check out the <a href="#tech-notes">Tech Notes Section</a> for my growing pains with photograpy and image editing.
+Now it's time for some high resolution photos of dirt! Check out my <a href="../../../2022/05/29/tech.html">companion tech post</a> for my growing pains with photograpy and image editing.
 
 ### Balcony
 
-{% include aligner.html images="2022-05-28/2022-05-28_balcony1_labels.png,2022-05-28/2022-05-28_balcony2_labels.png,2022-05-28/2022-05-28_balcony3_labels.png,2022-05-28/2022-05-28_balcony4_labels.png" column=4 %}
+{% include aligner.html images="2022-05-28/2022-05-28_balcony1_labels.png,2022-05-28/2022-05-28_balcony2_labels.png,2022-05-28/2022-05-28_balcony3_labels.png,2022-05-28/2022-05-28_balcony4_labels.png" alt="Balcony planters" column=4 %}
 
 ### Troughs
 
-{% include aligner.html images="2022-05-28/2022-05-28_trough1_labels.png,2022-05-28/2022-05-28_trough2_labels.png" column=2 %}
+{% include aligner.html images="2022-05-28/2022-05-28_trough1_labels.png,2022-05-28/2022-05-28_trough2_labels.png" alt = "Trough planters" column=2 %}
 
 ### Pots
 
-{% include aligner.html images="2022-05-28/2022-05-28_small-pot_labels.png,2022-05-28/2022-05-28_large-pot_labels.png" column=2 %}
+{% include aligner.html images="2022-05-28/2022-05-28_small-pot_labels.png,2022-05-28/2022-05-28_large-pot_labels.png" alt="Small and large pot planters" column=2 %}
 
 The soil in the large pot feels like a completely different kind of soil. It's much finer, and holds onto moisture really well. I wonder if this is potting soil and the rest is garden soil.
 
@@ -92,15 +92,6 @@ The [growing season for Edmonton](https://www.almanac.com/gardening/frostdates/A
 | EDMONTON CITY CENTRE A, AB | 2198'    | May 15            | Sep 16           | 123 days       | 
 
 I am 13 days behind schedule, so we might be cutting it close for harvesting some of the root vegetables.
-
-## Tech Notes
-
- I shot everything in 4k on my [iPad Mini 6](https://www.apple.com/ca/shop/buy-ipad/ipad-mini) and the photos are gorgeous! I knew I had to downsize them for my posts, so I initially tried 2000 px and then 720 px. Load times were still annoyingly slow, so I got some ideas from [an article on best image sizes for mobile sites](https://www.fosterwebmarketing.com/blog/the-best-image-size-for-desktop-and-mobile-websites.cfm). I wound up going with a horizontal resolution of 1440 px for full-size images that are meant to stretch across the whole screen. For a 2 column layout (<a href="#troughs">Trough Planters</a>), each image is 720 px and for a 4 column layout (<a href="#balcony">Balcony Planters</a>), each image is 360 px. The feature image (1440 px) still loads really slowly, so I'll have to think about that more.
-
-This is my first major project using the software [Affinity Designer](https://affinity.serif.com/en-gb/designer/). While I was a student, I took advantage of Adobe's 
-Up until recently, I had been using Adobe [Photoshop](https://www.adobe.com/ca/products/photoshop.html) and [Illustrator](https://www.adobe.com/ca/products/illustrator.html) for all my graphic design projects. However, now that I'm not a student, I can't justify the license costs anymore. I was recently recommended [Affinity Photo](https://affinity.serif.com/en-gb/designer/) and [Affinity Designer](https://affinity.serif.com/en-gb/designer/) as affordable Adobe replacements and this is my first major project using them. So far, I'm 100% satisfied with Designer, which is what I used for all the photos in this post:
-
-{% include aligner.html images="2022-05-28/2022-05-28_affinity-screenshot.png," column=1 %}
 
 ## Upcoming
 
