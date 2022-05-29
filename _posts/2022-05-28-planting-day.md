@@ -6,7 +6,7 @@ thumbnail: "assets/img/2022-05-28/2022-05-28_balcony.png"
 tags: [planting, seed, wind, dirt, planter, basil, beet, carrot, garlic, green onion, lettuce, parsnip, pepper, onion, radish, tomato, edmonton]
 ---
 
-I am gardening on my own for the first time ever! I have never been succesful at keeping a plant alive for more than a month, so this time I'm trying a few different things.
+I am gardening on my own for the first time ever! I have never been succesful at keeping a plant alive for more than a month, so this time I'm trying three different things.
 
 1. **I'm directly sowing seeds _outside_**. We have a west-facing balcony and it gets HOT during the day 🌞.
 1. **I'm using _proper planters_ and _potting soil_**. No more grocery store herbs in fragile plastic containers and sad soil.
