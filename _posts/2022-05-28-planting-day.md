@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Day 0 | Planting | 2022
-color: rgb(250, 50, 50)
-feature-img: "assets/img/feature-img/2022-05-28-day-0-planting.png"
-thumbnail: "assets/img/feature-img/2022-05-28-day-0-planting.png"
+feature-img: "assets/img/2022-05-28/2022-05-28_balcony.png"
+thumbnail: "assets/img/2022-05-28/2022-05-28_balcony.png"
 tags: [seeds, windy, dirt, planters, basil, beets, carrots, garlic, green onion, lettuce, parsnips, peppers, onion, radish, tomatoes, edmonton]
 ---
 
@@ -18,13 +17,12 @@ In hindsight, the morning of May 28, 2022 was not an ideal day to plant seeds on
 On a whim, I decided to try and grow a few plants from kitchen scraps:
 
 - **6 `garlic` cloves**. Fingers-crossed I got the orientation correct 🙃.
-- **8 `green onion` bulbs**. These are easy to grow in a water glass.
+- **7 `green onion` bulbs**. These are easy to grow in a water glass.
 - **3 `tomato` slices** which is a funny technique [I read about the night before](https://www.gardeningknowhow.com/edible/vegetables/tomato/planting-tomato-slices.htm).
 
 My `lettuce` and `pepper` seeds are also "mystery" seeds which I don't the variety or viabilitiy. I'm suddenly reminded of convenience store [candy that came in a "mystery" flavor](https://zomgcandy.com/airheads-white-mystery/). The rest of the seeds are described below.
 
 ## Plants
-
 
 | Plant        | Planter        | Type  | Sprout       | Mature       | 
 |:-------------|:---------------|:------| :------------|:-------------|
@@ -43,9 +41,11 @@ My `lettuce` and `pepper` seeds are also "mystery" seeds which I don't the varie
 - All plants are from seeds except for `garlic` and `green onions`. 
 - Sprout and maturation times come from the packets or the [How to Grow series](https://www.westcoastseeds.com/blogs/how-to-grow).
 
+{% include aligner.html images="2022-05-28/2022-05-28_balcony_labels.png" column=1 %}
+
 ### Balcony
 
-{% include aligner.html images="portfolio/cabin.png,portfolio/cabin.png,portfolio/cabin.png,portfolio/cabin.png" column=4 %}
+{% include aligner.html images="2022-05-28/2022-05-28_balcony1_labels.png,2022-05-28/2022-05-28_balcony1_labels.png,2022-05-28/2022-05-28_balcony1_labels.png,2022-05-28/2022-05-28_balcony1_labels.png" column=4 %}
 
 ### Troughs
 
