@@ -12,7 +12,7 @@ I am gardening on my own for the first time ever! I have never been succesful at
 1. **I'm using _proper planters_ and _potting soil_**. No more grocery store herbs in fragile plastic containers and sad soil.
 1. **I've done my research**. I spent 4-6 hours reading about planting and proper care.
 
-In hindsight, the morning of May 28, 2022 was not an ideal day to plant seeds on a balcony garden. It was EXTREMELY windy, and I lost about 25% of my parsnip seeds 😢 to the wind. Hopefully that will make some hungry birds day though.
+All supplies were generously given to me by my relatives 💗 including planters, soil, and seeds!  In hindsight, the morning of May 28, 2022 was not an ideal day to plant seeds on a balcony garden. It was EXTREMELY windy, and I lost about 25% of my parsnip seeds to the wind 😢. Hopefully that will make some hungry bird's day!
 
 On a whim, I decided to try and grow a few plants from kitchen scraps:
 
@@ -21,6 +21,7 @@ On a whim, I decided to try and grow a few plants from kitchen scraps:
 - **3 `tomato` slices** which is a funny technique [I read about the night before](https://www.gardeningknowhow.com/edible/vegetables/tomato/planting-tomato-slices.htm).
 
 My `lettuce` and `pepper` seeds are also "mystery" seeds which I don't the variety or viabilitiy. I'm suddenly reminded of convenience store [candy that came in a "mystery" flavor](https://zomgcandy.com/airheads-white-mystery/). The rest of the seeds are described below.
+
 
 ## Plants
 
@@ -41,21 +42,23 @@ My `lettuce` and `pepper` seeds are also "mystery" seeds which I don't the varie
 - All plants are from seeds except for `garlic` and `green onions`. 
 - Sprout and maturation times come from the packets or the [How to Grow series](https://www.westcoastseeds.com/blogs/how-to-grow).
 
-{% include aligner.html images="2022-05-28/2022-05-28_balcony_labels_720px.png" column=1 %}
+{% include aligner.html images="2022-05-28/2022-05-28_balcony_labels.png" column=1 %}
 
-Now it's time for some high resolution photos of dirt! I shot everything in 4k
+Now it's time for some high resolution photos of dirt! Check out the <a href="#tech-notes">Tech Notes Section</a>
 
 ### Balcony
 
-{% include aligner.html images="2022-05-28/2022-05-28_balcony1_labels_720px.png,2022-05-28/2022-05-28_balcony2_labels_720px.png,2022-05-28/2022-05-28_balcony3_labels_720px.png,2022-05-28/2022-05-28_balcony4_labels_720px.png" column=4 %}
+{% include aligner.html images="2022-05-28/2022-05-28_balcony1_labels.png,2022-05-28/2022-05-28_balcony2_labels.png,2022-05-28/2022-05-28_balcony3_labels.png,2022-05-28/2022-05-28_balcony4_labels.png" column=4 %}
 
 ### Troughs
 
-{% include aligner.html images="2022-05-28/2022-05-28_trough1_labels_720px.png,2022-05-28/2022-05-28_trough2_labels_720px.png" column=2 %}
+{% include aligner.html images="2022-05-28/2022-05-28_trough1_labels.png,2022-05-28/2022-05-28_trough2_labels.png" column=2 %}
 
 ### Pots
 
-{% include aligner.html images="portfolio/cabin.png,portfolio/cabin.png" column=2 %}
+{% include aligner.html images="2022-05-28/2022-05-28_small-pot_labels.png,2022-05-28/2022-05-28_large-pot_labels.png" column=2 %}
+
+The soil in the large pot feels like a completely different kind of soil. It's much finer, and holds onto moisture really well. I wonder if this is potting soil and the rest is garden soil.
 
 ## Companion Planting
 
@@ -94,3 +97,12 @@ I am 13 days behind schedule, so we might be cutting it close for harvesting som
 
 - The next activity point is the `garlic` and `green onion` sprouting in `2-3 days`.
 - After that is the `basil`, `lettuce`, `radish`, and `tomatoes` sprouting in `5-14 days`.
+
+## Tech Notes
+
+ I shot everything in 4k on my [iPad Mini 6](https://www.apple.com/ca/shop/buy-ipad/ipad-mini) and the photos are gorgeous! I knew I had to downsize them for my posts, so I initially tried 2000 px and then 720 px. Load times were still annoyingly slow, so I got some ideas from [an article on best image sizes for mobile sites](https://www.fosterwebmarketing.com/blog/the-best-image-size-for-desktop-and-mobile-websites.cfm). I wound up going with a horizontal resolution of 1440 px for full-size images that are meant to stretch across the whole screen. For a 2 column layout (<a href="#troughs">Trough Planters</a>), each image is 720 px and for a 4 column layout (<a href="#balcony">Balcony Planters</a>), each image is 360 px. The feature image (1440 px) still loads really slowly, so I'll have to think about that more.
+
+This is my first major project using the software [Affinity Designer](https://affinity.serif.com/en-gb/designer/). While I was a student, I took advantage of Adobe's 
+Up until recently, I had been using Adobe [Photoshop](https://www.adobe.com/ca/products/photoshop.html) and [Illustrator](https://www.adobe.com/ca/products/illustrator.html) for all my graphic design projects. However, now that I'm not a student, I can't justify the license costs anymore. I was recently recommended [Affinity Photo](https://affinity.serif.com/en-gb/designer/) and [Affinity Designer](https://affinity.serif.com/en-gb/designer/) as affordable Adobe replacements and this is my first major project using them. So far, I'm 100% satisfied with Designer, which is what I used for all the photos in this post:
+
+{% include aligner.html images="2022-05-28/2022-05-28_affinity-screenshot.png," column=1 %}
