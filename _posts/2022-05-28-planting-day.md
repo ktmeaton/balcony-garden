@@ -41,15 +41,17 @@ My `lettuce` and `pepper` seeds are also "mystery" seeds which I don't the varie
 - All plants are from seeds except for `garlic` and `green onions`. 
 - Sprout and maturation times come from the packets or the [How to Grow series](https://www.westcoastseeds.com/blogs/how-to-grow).
 
-{% include aligner.html images="2022-05-28/2022-05-28_balcony_labels.png" column=1 %}
+{% include aligner.html images="2022-05-28/2022-05-28_balcony_labels_720px.png" column=1 %}
+
+Now it's time for some high resolution photos of dirt! I shot everything in 4k
 
 ### Balcony
 
-{% include aligner.html images="2022-05-28/2022-05-28_balcony1_labels.png,2022-05-28/2022-05-28_balcony1_labels.png,2022-05-28/2022-05-28_balcony1_labels.png,2022-05-28/2022-05-28_balcony1_labels.png" column=4 %}
+{% include aligner.html images="2022-05-28/2022-05-28_balcony1_labels_720px.png,2022-05-28/2022-05-28_balcony2_labels_720px.png,2022-05-28/2022-05-28_balcony3_labels_720px.png,2022-05-28/2022-05-28_balcony4_labels_720px.png" column=4 %}
 
 ### Troughs
 
-{% include aligner.html images="portfolio/cabin.png,portfolio/cabin.png" column=2 %}
+{% include aligner.html images="2022-05-28/2022-05-28_trough1_labels_720px.png,2022-05-28/2022-05-28_trough2_labels_720px.png" column=2 %}
 
 ### Pots
 
