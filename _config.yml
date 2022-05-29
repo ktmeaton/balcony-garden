@@ -38,10 +38,10 @@ comments:
     repo:                                               # your public comments repository (e.g. owner/repo)
     issue-term:                                         # Issue term (e.g. "comment" consider issues with this word in the title as comments)
   giscus:                                               # Enable by filling below information. For more info, go to https://giscus.app/
-    repo: "ktmeaton/balcony-garden"                   # your public comments repository (e.g. owner/repo)
+    repo: "ktmeaton/balcony-garden"                     # your public comments repository (e.g. owner/repo)
     repo-id: "R_kgDOHaVdEA"                           
-    category: "Annoucements"                          # Discussion category where comments are created
-    category-id: "DIC_kwDOHaVdEM4CPWEA"    
+    category: "Comments"                                # Discussion category where comments are created
+    category-id: "DIC_kwDOHaVdEM4CPXAc"
 
 # PAGINATION
 paginate: 5
