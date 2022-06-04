@@ -31,7 +31,7 @@ gantt
     title Garden Growth Chart
     dateFormat  YYYY-MM-DD
     section Radish
-    Initial milestone : milestone, m1, 17:49,2min
+    First Sprout :milestone,         2022-06-02, 2022-06-02,2min
     Seed 🌱     :radish-seed,        2022-05-28,             5d
     Sprout 🌿   :radish-sprout,      after radish-seed,      2d
     section Green Onion
