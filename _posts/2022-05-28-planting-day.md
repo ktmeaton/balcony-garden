@@ -3,8 +3,11 @@ layout: post
 title: Garden | Day 0 | Planting
 feature-img: "assets/img/2022-05-28/2022-05-28_balcony.png"
 thumbnail: "assets/img/2022-05-28/2022-05-28_balcony.png"
-tags: [planting, seed, wind, dirt, planter, basil, beet, carrot, garlic, green onion, lettuce, parsnip, pepper, onion, radish, tomato, edmonton]
+tags: [garden, planting, seed, wind, dirt, planter, basil, beet, carrot, garlic, green onion, lettuce, parsnip, pepper, onion, radish, tomato, edmonton]
 ---
+
+> **Updates:**  
+> 2022-06-04: Edited the sprouting time for garlic to [20-25 days](https://garliccare.com/why-didnt-my-garlic-cloves-sprout/).
 
 I am gardening on my own for the first time ever! I have never been succesful at keeping a plant alive for more than a month, so this time I'm trying three different things.
 
@@ -30,7 +33,7 @@ My `lettuce` and `pepper` seeds are also "mystery" seeds which I don't the varie
 | Basil        | Large Pot      | Seed  | 7-14 days    | 85 days      |
 | Beets        | Trough #2      | Seed  | 10-12 days   | 50-65 days   | 
 | Carrots      | Balcony #1, #3 | Seed  | 14-21 days   | 80 days      |
-| Garlic       | Trough #2      | Clove | 2-3 days     | 90-100 days  |
+| Garlic       | Trough #2      | Clove | 20-25 days   | 90-100 days  |
 | Green Onion  | Balcony #1, #4 | Bulb  | 2-3 days     | 14-21 days   |
 | Lettuce      | Balcony #2, #3 | Seed  | 7-14 days    | 40-50 days   |
 | Parsnips     | Balcony #2, #4 | Seed  | 20-25 days   | 100-120 days |
@@ -95,5 +98,5 @@ I am 13 days behind schedule, so we might be cutting it close for harvesting som
 
 ## Upcoming
 
-- The next activity point is the `garlic` and `green onion` sprouting in `2-3 days`.
+- The next activity point is the `green onion` sprouting in `2-3 days`.
 - After that is the `basil`, `lettuce`, `radish`, and `tomatoes` sprouting in `5-14 days`.
