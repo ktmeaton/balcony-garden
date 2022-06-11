@@ -30,11 +30,42 @@ I've been watering all planters either 2 or 3 times a day, depending on weather 
 gantt
     title Garden Growth Chart
     dateFormat  YYYY-MM-DD
-    section Radish
-    First Sprout :milestone,         2022-06-02, 2022-06-02,2min
-    Seed 🌱     :radish-seed,        2022-05-28,             5d
-    Sprout 🌿   :radish-sprout,      after radish-seed,      2d
+    First Sprout  :crit, milestone,         2022-06-02, 2022-06-02,2min
+    Day 7         :done, milestone,          2022-06-04,             2022-06-04,2min
+
+    section Basil
+      Seed 🌱     :basil-seed,         2022-05-28,             2022-06-04
+
+    section Beet
+      Seed 🌱     :beet-seed,          2022-05-28,             2022-06-04 
+
+    section Carrot
+      Seed 🌱     :carrot-seed,        2022-05-28,             2022-06-04
+
+    section Garlic
+      Seed 🌱     :garlic-seed,        2022-05-28,             2022-06-04
+
     section Green Onion
-    Seed 🌱     :green-onion-seed,   2022-05-28,             5d
-    Sprout 🌿   :green-onion-sprout, after green-onion-seed, 2d
+      Seed 🌱     :done, green-onion-seed,   2022-05-28,             2022-06-02
+      Sprout 🌿   :green-onion-sprout, after green-onion-seed, 2022-06-04
+
+    section Lettuce
+      Seed 🌱     :lettuce-seed,       2022-05-28,             2022-06-04
+
+    section Parsnip
+      Seed 🌱     :parsnip-seed,       2022-05-28,             2022-06-04
+
+    section Pepper
+      Seed 🌱     :pepper-seed,        2022-05-28,             2022-06-04
+
+    section Onion
+      Seed 🌱     :onion-seed,         2022-05-28,             2022-06-04
+
+    section Radish
+      Seed 🌱     :done,radish-seed,   2022-05-28,             2022-06-02
+      Sprout 🌿   :radish-sprout,      after radish-seed,      2022-06-04
+
+    section Tomato
+      Seed 🌱     :tomato-seed,        2022-05-28,             2022-06-04
+     
 </div>
